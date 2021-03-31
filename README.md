@@ -20,6 +20,7 @@ A list of projects is already added to this open-quantum-hardware list, but feel
 - [ARTIQ](http://m-labs.hk/experiment-control/artiq/), which stands for Advanced Real-Time Infrastructure for Quantum physics is a software that provides fast control for trapped ions enhanced by the use of FPGAs. Developed at NIST, then National Institute for Standard and Time. 
 - [qupulse](https://github.com/qutech/qupulse), a software created at QuTech specifically designed to implement pulse-level control of quantum spins in the lab. 
 - OpenPulse, and Qiskit Pulse ([arxiv](https://arxiv.org/abs/2004.06755)). 
+- [Quantify](https://gitlab.com/quantify-os): Quantify is a python based data acquisition platform focused on Quantum Computing and solid-state physics experiments.
 
 ### Open-source software for hardware characterization and optimization
 - Quantum optimal control, noise calibration, error mitigation, has a side that is amenable to extend hardware into open-software. 
