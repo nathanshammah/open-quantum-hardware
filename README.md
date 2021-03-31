@@ -10,7 +10,7 @@ A list of projects is already added to this open-quantum-hardware list, but feel
 
 ## Remotely-controlled laboratories 
 - Chris Monroe’s article highlighted the implementation of software for remote labs.
-- ColdQuanta's [Einstein](https://www.coldquanta.com/news/coldquanta-announces-quantum-matter-on-the-cloud/): a Bose Einstein Condensate controlled from the cloud. 
+- ColdQuanta's [Albert](https://www.coldquanta.com/news/coldquanta-announces-quantum-matter-on-the-cloud/): a Bose Einstein Condensate controlled from the cloud. 
 
 ## Automate processes in the labs, for example for data acquisition:
 - [QCodes](http://qcodes.github.io/Qcodes/), a Python-based data acquisition framework developed at research centers in Copenhagen, Delft, Sydney, and at Microsoft Research.  
