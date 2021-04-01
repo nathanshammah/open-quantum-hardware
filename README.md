@@ -21,8 +21,10 @@ A list of projects is already added to this open-quantum-hardware list, but feel
 - [qupulse](https://github.com/qutech/qupulse), a software created at QuTech specifically designed to implement pulse-level control of quantum spins in the lab. 
 - OpenPulse, and Qiskit Pulse ([arxiv](https://arxiv.org/abs/2004.06755)). 
 - [Quantify](https://gitlab.com/quantify-os): Quantify is a python based data acquisition platform focused on quantum computing and solid-state physics experiments.
+- [Instrument Kit](https://github.com/Galvant/InstrumentKit): Python package for interacting with laboratory equipment over various buses.
+- [Instrumental](https://github.com/mabuchilab/Instrumental): Instrumental is a Python-based library for controlling lab hardware like cameras, DAQs, oscilloscopes, spectrometers, and more.
 
 ### Open-source software for hardware characterization and optimization
 - Quantum optimal control, noise calibration, error mitigation, has a side that is amenable to extend hardware into open-software. 
 - [C3](https://c3-toolset.readthedocs.io/), an optimal control software with a full quantum state simulator developed mainly at Julich and University of Saarland within the framework of the EU’s open quantum computer, OpenSuperQ, which has an attention to open accessibility. ([arxiv](https://arxiv.org/abs/2009.09866))
-- Mitiq, the open source software being developed at Unitary Labs, the R&D arm of Unitary Fund, which, being completely hardware-agnostic, can provide customizations with tight integration with specific executors. 
+- Mitiq, the open source software being developed at Unitary Labs, the R&D arm of Unitary Fund, which can provide customizations with tight integration with specific executors. 
