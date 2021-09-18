@@ -1,5 +1,5 @@
-# open-quantum-hardware
-a list of quantum open hardware projects. 
+# Open Quantum Hardware Projects
+a list of quantum open hardware projects.
 
 This is thought as a collaborative repository where everyone can add projects that belong to open hardware in quantum science and technology. For open-source software projects in quantum computing, there is the excellent repository by the Quantum Open Source Foundation, with the awesome repository, which includes experimental quantum computing packages. 
 
