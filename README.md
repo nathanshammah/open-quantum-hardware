@@ -25,7 +25,7 @@ A list of projects is already added to this open-quantum-hardware list, but feel
 - [Quantify](https://gitlab.com/quantify-os): Quantify is a python based data acquisition platform focused on quantum computing and solid-state physics experiments.
 - [Instrument Kit](https://github.com/Galvant/InstrumentKit): Python package for interacting with laboratory equipment over various buses.
 - [Instrumental](https://github.com/mabuchilab/Instrumental): Instrumental is a Python-based library for controlling lab hardware like cameras, DAQs, oscilloscopes, spectrometers, and more.
-- [Qick](https://github.com/openquantumhardware/qick): Quantum Instrumentation Control Kit is a kit of firmware and software to use the Xilinx RFSoC to control quantum systems.
+- [Qick](https://github.com/openquantumhardware/qick): Quantum Instrumentation Control Kit is a kit of firmware and software to use the Xilinx RFSoC to control quantum systems ([arXiv](https://arxiv.org/abs/2110.00557)).
 
 ### Open-source software for hardware characterization and optimization
 - Quantum optimal control, noise calibration, error mitigation, has a side that is amenable to extend hardware into open-software. 
