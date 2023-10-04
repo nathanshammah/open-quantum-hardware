@@ -5,6 +5,8 @@ This is thought as a collaborative repository where everyone can add projects th
 
 A list of projects is already added to this open-quantum-hardware list, but feel free to add more, by opening a pull request, or, if you are not familiar with git, opening a descriptive issue. 
 
+**_NOTE:_**  You can find more information in the following paper: [arXiv:2309.17233](https://arxiv.org/abs/2309.17233) "Open Hardware in Quantum Technology".
+
 ## Blueprints and hardware design toolkits
 - [pyEPR](https://pyepr-docs.readthedocs.io/) is standing out for superconducting qubits as a platform to design quantum processors. Originally developed at Yale, it is now used by tens of research groups in Northern America, Europe, and beyond. 
 - [Qiskit Metal](https://github.com/Qiskit/qiskit-metal) - Quantum hardware design and analysis for superconducting qubits.
